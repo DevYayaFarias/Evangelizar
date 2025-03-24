@@ -1,0 +1,39 @@
+
+    body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #f0e0b6; /* Cor de fundo clara */
+        color: #7a5c2d; * Cor do texto */
+        line-height: 1.6;
+        align-text: justify;
+    }
+
+      .navbar {
+        color: #b59145;
+        height: 50px;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #2b1f04;
+        padding: ;
+
+    }
+    h1 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    button {
+        background-color: #2b1f04; /* Cor do botão de cadastro */
+        color: #fff;
+        border: none;
+        padding: 12px;
+        border-radius: 10px;
+        font-size: 10px;
+        cursor: pointer;
+    }
+
+     button:hover{
+     background-color:#b59145
+     }
+
